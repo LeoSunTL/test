@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/LeoSunTL/test/compare/v1.0.0...v1.1.0) (2025-03-09)
+
+
+### Features
+
+* feat2 rename version file ([d6ffdb5](https://github.com/LeoSunTL/test/commit/d6ffdb5cc0762694b507d7be6dd04bc2d7ddb87b))
+
 ## 1.0.0 (2025-03-09)
 
 
